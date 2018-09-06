@@ -120,7 +120,9 @@ OK
 
 웹브라우저에서 localhost:8888/tree가 열리면, object_detection 디렉토리 내에 object_detection_tutorial.ipynb를 열어 실행시켜 보면 다음과 같이 인식한 결과가 나올 것이다.
 
-
+![image alt text](images/object_detection_tutorial_001.png)	
+![image alt text](images/object_detection_tutorial_002.png)	
+![image alt text](images/object_detection_tutorial_003.png)	
 
 ---
 ## 참고
