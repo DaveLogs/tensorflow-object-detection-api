@@ -1,6 +1,6 @@
 # Tensorflow Object Detection API
 
-Tensorflow Object Detetion API는 Tensorflow를 이용하여 이미지 속 를 인식할 수 있도록 하는, 각기 다른 정확도와 속도를 갖는 5개의 모델을 라이브러리 형태로 제공하는 오픈소스 프레임워크이다. 본 문서는 Tensorflow Object Detection API를 사용할 수 있는 환경을 구축하는 방법을 설명한다.
+Tensorflow Object Detetion API는 Tensorflow를 이용하여 이미지 속 객체를 인식할 수 있도록 하는, 각기 다른 정확도와 속도를 갖는 5개의 모델을 라이브러리 형태로 제공하는 오픈소스 프레임워크이다. 본 문서는 Tensorflow Object Detection API를 사용할 수 있는 환경을 구축하는 방법을 설명한다.
 
 본 문서에서 진행할 설치 과정의 환경은 다음과 같다.
 
