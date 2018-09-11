@@ -129,4 +129,7 @@ OK
 
 Tensorflow Object Detection 원본 설치 문서:
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+Tensorflow detection model zoo:
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
 
